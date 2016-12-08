@@ -1,0 +1,26 @@
+
+#foot {
+  background-color:#000066;
+  font-size: 16px;
+  padding: 20px;
+  margin-top: 450px;
+}
+
+#head{
+    width: 100%;
+  background-color:#000066 ;
+  position: fixed;
+}
+
+
+body {
+background:url('121.jpg') no-repeat center fixed;
+
+}
+#disp{
+  color:white;
+  margin-left: 50px;
+}
+#txt,#btn{
+  margin-top: 100px;
+}
